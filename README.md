@@ -48,7 +48,7 @@ Para realizar operações de criação, atualização e exclusão, é necessári
 - **middleware/upload.js**: Middleware para manipulação do upload de imagens
 - **models/News.js**: Definição do modelo de dados da notícia
 - **routes/newsRoutes.js**: Definição das rotas para acessar os endpoints da API
-- **server.js**: Arquivo principal que inicializa o servidor
+- **app.js**: Arquivo principal que inicializa o servidor
 
 ## Como rodar a API
 1. Clone o repositório
