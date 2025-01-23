@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Documentação da API - News</title>
-</head>
-<body>
+
+
     <h1>API - News</h1>
     <p>Esta API permite a criação, leitura, atualização e exclusão de notícias, incluindo upload de imagens. Ela foi construída utilizando Node.js, Express, MongoDB e JWT para autenticação.</p>
 
@@ -73,6 +67,6 @@
 
     <h2>Licença</h2>
     <p>Este projeto é licenciado sob a MIT License.</p>
-</body>
+
 </html>
 
